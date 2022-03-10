@@ -1,5 +1,5 @@
 {
-  "name": "test_contribution",
+  "name": "donatator_test",
   "version": "1.0.0",
   "description": "Qualifying round task",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zerephe/test_contribution.git"
+    "url": "git+https://github.com/zerephe/donatator_test.git"
   },
   "author": "Bekn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zerephe/test_contribution/issues"
+    "url": "https://github.com/zerephe/donatator_test/issues"
   },
-  "homepage": "https://github.com/zerephe/test_contribution#readme",
+  "homepage": "https://github.com/zerephe/donatator_test#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
     "@nomiclabs/hardhat-etherscan": "^3.0.3",
