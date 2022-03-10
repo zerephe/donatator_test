@@ -5,7 +5,6 @@ describe("Donatator", function () {
   
   let Token; 
   let donationToken;
-  let contractOwner;
   let addr1;
   let addr2;
 
