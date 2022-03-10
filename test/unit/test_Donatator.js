@@ -1,4 +1,4 @@
-const { expect } = require("chai");
+const { expect } = require("cnpm install --save-dev chaihai");
 const { ethers } = require("hardhat");
 
 describe("Donatator", function () {
