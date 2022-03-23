@@ -19,6 +19,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
+
+// Used ALCHEMYAPI.io service in order to deploy on rinkeby network
 module.exports = {
   solidity: "0.8.4",
   networks: {
