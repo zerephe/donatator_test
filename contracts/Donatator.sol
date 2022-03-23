@@ -2,8 +2,6 @@
 
 pragma solidity ^0.8.0;
 
-import "hardhat/console.sol";
-
 
 contract MakeDonation {
 
@@ -55,6 +53,5 @@ contract MakeDonation {
         require(donations[_donatorAddr] > 0, "This address is not donor!");
         return donations[_donatorAddr];
     }
-
 
 }
